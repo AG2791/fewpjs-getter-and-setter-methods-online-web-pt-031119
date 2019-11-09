@@ -2,7 +2,7 @@
 const pi = Math.PI
 
 class Circle {
-  constructor( radius ) {
+  constructor(radius) {
     this.radius = radius;
   }
 
